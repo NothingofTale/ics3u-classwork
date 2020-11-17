@@ -16,9 +16,9 @@ Vending machine from the machines perspective:
 - If the change button is pressed
   - release inserted amount
 
-Conditional branching: whether or not the person has inserted the right amount
-Loop: Repeat the process continuously
-Nested structure: if statements in while loop
+Conditional branching: whether or not the person has inserted the right amount\
+Loop: Repeat the process continuously\
+Nested structure: if statements in while loop\
 
 ## The Cookie is too Big for the Glass
 1. Break the cookie into smaller pieces that fit
